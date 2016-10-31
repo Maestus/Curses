@@ -55,6 +55,6 @@ class Transmetter: public Printer, public Scanner{
 ///////////////////////////////////////////////////
 /**************************************************
 
-class Printer: virtual public Device{}
+class Printer: virtual public Device{} To have a id
 
 **************************************************/
